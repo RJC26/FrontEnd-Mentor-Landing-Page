@@ -21,6 +21,7 @@ body{
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin-bottom: 4rem;
 }
 
 /* HEADER SECTION */
