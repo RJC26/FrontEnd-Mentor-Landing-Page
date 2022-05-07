@@ -205,6 +205,8 @@ footer{
     }
     .image-container2{
         display: flex;
+        position: relative;
+        left: -45px;
         width: 50%;
         margin-right: 3rem;
     }
